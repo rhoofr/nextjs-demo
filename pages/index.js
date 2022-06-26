@@ -15,6 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href='https://nextjs.org'>Next.js!</a>
         </h1>
+        <h2>Testing continuous deployment</h2>
 
         <p className={styles.description}>
           Get started by editing <code className={styles.code}>pages/index.js</code>
